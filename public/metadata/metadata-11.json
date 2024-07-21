@@ -1,0 +1,72 @@
+{
+  "projectType": "housing",
+  "projectDescription": "building pool in backgarden. leveling ground, laying foudations, waterproofing, building pool, filling pool, chemical testing, testing, completion.",
+  "estimatedCost": "100000",
+  "estimatedTimescale": "3 months",
+  "projectLocation": "London",
+  "isInvestable": false,
+  "investmentGoal": "",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "community_impact"
+  ],
+  "timestamp": 1720173535289,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Ground Leveling",
+      "description": "Site inspection and assessment, Clearing the area, Leveling the ground",
+      "deadline": "2024-07-08",
+      "paymentDetails": "20000",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Laying Foundations",
+      "description": "Excavating the pool area, Setting up the foundation frame, Pouring and setting the concrete",
+      "deadline": "2024-07-09",
+      "paymentDetails": "20000",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Waterproofing",
+      "description": "Applying waterproofing membrane, Inspecting and testing for leaks",
+      "deadline": "2024-07-10",
+      "paymentDetails": "",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Building Pool",
+      "description": "Building pool walls, Installing pool floor, Installing pool filtration system",
+      "deadline": "2024-07-11",
+      "paymentDetails": "",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Filling Pool",
+      "description": "Filling the pool with water, Checking and adjusting the water level",
+      "deadline": "2024-07-12",
+      "paymentDetails": "20000",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 5,
+      "title": "Chemical Testing",
+      "description": "Testing water pH, Adjusting chemical levels, Retesting and adjusting as necessary",
+      "deadline": "2024-07-13",
+      "paymentDetails": "20000",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 6,
+      "title": "Final Testing and Completion",
+      "description": "Final inspection and testing of the pool, Cleaning up the site, Final walkthrough with the client",
+      "deadline": "2024-07-15",
+      "paymentDetails": "20000",
+      "evidenceUrl": ""
+    }
+  ]
+}

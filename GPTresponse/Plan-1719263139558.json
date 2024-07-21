@@ -1,0 +1,34 @@
+{
+  "milestones": [
+    {
+      "title": "Project Initiation and Planning",
+      "description": "Establishing project team, Identifying key stakeholders, Developing project charter, Creating detailed project plan, Risk identification and mitigation planning",
+      "duration": "2 months",
+      "paymentDetails": ": Initial payment of 10% of the total project cost upon completion of this milestone."
+    },
+    {
+      "title": "Road Repairs",
+      "description": "Surveying and identifying areas requiring repair, Prioritizing repairs based on urgency and impact, Procuring necessary materials and equipment, Executing repair works, Quality assurance and testing",
+      "duration": "6 months",
+      "paymentDetails": ": Payment of 25% of the total project cost upon completion of this milestone."
+    },
+    {
+      "title": "Bridge Maintenance",
+      "description": "Conducting thorough inspections of all city bridges, Identifying maintenance needs and prioritizing based on safety considerations, Procuring necessary materials and equipment, Executing maintenance works, Quality assurance and testing",
+      "duration": "6 months",
+      "paymentDetails": ": Payment of 25% of the total project cost upon completion of this milestone."
+    },
+    {
+      "title": "Public Utility Upgrades",
+      "description": "Surveying public utilities and identifying upgrade needs, Prioritizing upgrades based on efficiency and impact on public services, Procuring necessary materials and equipment, Executing upgrade works, Quality assurance and testing",
+      "duration": "8 months",
+      "paymentDetails": ": Payment of 30% of the total project cost upon completion of this milestone."
+    },
+    {
+      "title": "Project Closure",
+      "description": "Finalizing all project documentation, Conducting project review and lessons learned, Formal project closure and handover to city administration",
+      "duration": "2 months",
+      "paymentDetails": ": Final payment of 10% of the total project cost upon completion of this milestone."
+    }
+  ]
+}

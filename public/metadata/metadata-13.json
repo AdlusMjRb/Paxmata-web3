@@ -1,0 +1,54 @@
+{
+  "projectType": "housing",
+  "projectDescription": "reroofing modern house",
+  "estimatedCost": "5000",
+  "estimatedTimescale": "",
+  "projectLocation": "",
+  "isInvestable": false,
+  "investmentGoal": "",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [],
+  "timestamp": 1720177146072,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Project Initiation and Planning",
+      "description": "Initial client consultation, Site inspection and assessment, Development of project plan and timeline, Procurement of necessary permits and approvals",
+      "deadline": "",
+      "paymentDetails": "N/A",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Material Procurement",
+      "description": "Selection and purchase of roofing materials, Delivery and storage of materials on site",
+      "deadline": "",
+      "paymentDetails": "N/A",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Roof Removal",
+      "description": "Removal of the existing roof, Disposal of old roofing materials, Site cleanup",
+      "deadline": "",
+      "paymentDetails": "N/A",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Roof Installation",
+      "description": "Installation of new roofing materials, Waterproofing and sealing of the roof, Installation of flashing and gutters",
+      "deadline": "",
+      "paymentDetails": "N/A",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Project Completion and Cleanup",
+      "description": "Final inspection and quality assurance checks, Cleanup of the project site, Final client walkthrough and sign-off",
+      "deadline": "",
+      "paymentDetails": "N/A",
+      "evidenceUrl": ""
+    }
+  ]
+}

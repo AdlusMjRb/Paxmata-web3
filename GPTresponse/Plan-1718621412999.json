@@ -1,0 +1,61 @@
+{
+  "milestones": [
+    {
+      "number": 1,
+      "title": "Project Initiation and Planning",
+      "duration": "1 Month",
+      "tasks": [
+        "Site inspection",
+        "Gathering requirements",
+        "Architectural planning",
+        "Obtaining necessary permits"
+      ],
+      "paymentDetails": ": 10% of the total budget, payable upon completion of planning and design"
+    },
+    {
+      "number": 2,
+      "title": "Foundation Construction",
+      "duration": "2 Months",
+      "tasks": [
+        "Site excavation",
+        "Laying of foundation",
+        "Inspection and sign-off of foundation"
+      ],
+      "paymentDetails": ": 20% of the total budget, payable upon completion and approval of foundation"
+    },
+    {
+      "number": 3,
+      "title": "Building Structure",
+      "duration": "3 Months",
+      "tasks": [
+        "Construction of walls and roof structure",
+        "Installation of windows and exterior doors",
+        "Roofing installation"
+      ],
+      "paymentDetails": ": 30% of the total budget, payable upon completion of the building structure"
+    },
+    {
+      "number": 4,
+      "title": "Interior Work and Finishing",
+      "duration": "4 Months",
+      "tasks": [
+        "Installation of electricity and plumbing",
+        "Installation of insulation and drywall",
+        "Painting and interior finishing",
+        "Installation of fixtures and appliances"
+      ],
+      "paymentDetails": ": 30% of the total budget, payable upon completion of interior work"
+    },
+    {
+      "number": 5,
+      "title": "Final Inspection and Handover",
+      "duration": "2 Months",
+      "tasks": [
+        "Final inspection and snagging",
+        "Final touch-ups and cleaning",
+        "Handover to the client"
+      ],
+      "paymentDetails": ": 10% of the total budget, payable upon successful handover of the project"
+    }
+  ]
+}

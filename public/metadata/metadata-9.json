@@ -1,0 +1,49 @@
+{
+  "projectType": "housing",
+  "projectDescription": "Developing a sustainable neighbourhood with green homes and renewable energy sources, aiming to reduce the environmental footprint and promote sustainable living.",
+  "estimatedCost": "800000",
+  "estimatedTimescale": "9 months",
+  "projectLocation": "",
+  "isInvestable": true,
+  "investmentGoal": "300000",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "sustainability",
+    "charitable_donation"
+  ],
+  "timestamp": 1720033080265,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Project Planning and Designing",
+      "description": "Research and analysis of sustainable neighbourhood designs and renewable energy sources",
+      "deadline": "2024-07-10",
+      "paymentDetails": "100",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Infrastructure Development",
+      "description": "Site preparation and land grading",
+      "deadline": "2024-07-18",
+      "paymentDetails": "100",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Construction of Green Homes",
+      "description": "Construction of sustainable houses using green materials",
+      "deadline": "2024-07-25",
+      "paymentDetails": "100",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Quality Assurance and Handover",
+      "description": "Quality checks and assurance",
+      "deadline": "2024-07-25",
+      "paymentDetails": "100",
+      "evidenceUrl": ""
+    }
+  ]
+}

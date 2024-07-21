@@ -1,0 +1,56 @@
+{
+  "projectType": "landscaping",
+  "projectDescription": "building a pool in my backgarden, leveling land and laying ground work ",
+  "estimatedCost": "12000",
+  "estimatedTimescale": "4 months ",
+  "projectLocation": "Glasgow",
+  "isInvestable": true,
+  "investmentGoal": "3000",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "charitable_donation"
+  ],
+  "timestamp": 1719352334738,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Project Initiation and Land Survey",
+      "description": "Initial client meeting to discuss project specifics, Land survey to determine the best location for the pool, Detailed project plan creation",
+      "deadline": "2024-06-28",
+      "paymentDetails": "300",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Land Leveling",
+      "description": "Clearing the chosen area of any debris or plants, Leveling the land to ensure a flat surface for pool construction, Disposal of excess soil or debris",
+      "deadline": "2024-07-05",
+      "paymentDetails": "300",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Laying Groundwork",
+      "description": "Digging the pool hole, Installing the pool framework, Laying the groundwork including plumbing and electrical installation",
+      "deadline": "2024-07-12",
+      "paymentDetails": "300",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Pool Construction",
+      "description": "Constructing the pool shell, Installing the pool liner, Filling the pool with water and testing the system",
+      "deadline": "2024-07-19",
+      "paymentDetails": "1000",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Final Inspection and Handover",
+      "description": "Conducting a final inspection to ensure the pool meets all safety standards, Client walkthrough and handover, Finalizing project documentation",
+      "deadline": "2024-07-26",
+      "paymentDetails": "100",
+      "evidenceUrl": ""
+    }
+  ]
+}

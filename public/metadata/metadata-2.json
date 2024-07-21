@@ -1,0 +1,54 @@
+{
+  "projectType": "housing",
+  "projectDescription": "Stunning 3-Bedroom Home for Sale in Ely, Cambridge - £450,000  Initial Interest: Explore this beautiful property, perfectly located in the charming town of Ely. Start with a viewiProperty For sale: Ely, Cambridge. Offer and Acceptance: Once your offer is accepted, we'll move swiftly into the conveyancing phase. Your legal team will handle document exchanges and necessary searches to clear any legal encumbrances.  Mortgage and Surveys: Secure your mortgage with a valuation survey to confirm the property’s worth matches your financing. Upon mortgage approval and positive survey outcomes, you're set for the next big step.  Exchange of Contracts: Commit legally to the purchase by exchanging contracts with the seller. At this stage, the transaction becomes legally binding, and a completion date is agreed upon.  Completion: Finalize your purchase on the set date with the transfer of funds. Collect the keys to your new home and start your new chapter in Ely.",
+  "estimatedCost": "450000",
+  "estimatedTimescale": "3 months to complete",
+  "projectLocation": "Birmingham",
+  "isInvestable": false,
+  "investmentGoal": "",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [],
+  "timestamp": 1719343230106,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Initial Interest",
+      "description": "Schedule and conduct property viewing, Discuss potential offer and terms with real estate agent",
+      "deadline": "2024-06-28",
+      "paymentDetails": ": No payment required",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Offer and Acceptance",
+      "description": "Make an official offer for the property, Engage a legal team for the conveyancing process",
+      "deadline": "2024-07-05",
+      "paymentDetails": ": Legal fees applicable (varies depending on the legal firm)",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Mortgage and Surveys",
+      "description": "Apply for a mortgage from a bank or financial institution, Schedule and conduct a valuation survey",
+      "deadline": "2024-07-12",
+      "paymentDetails": ": Mortgage application and survey fees applicable (varies depending on the bank and survey company)",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Exchange of Contracts",
+      "description": "Review and sign contracts, Agree on a completion date",
+      "deadline": "2024-07-19",
+      "paymentDetails": ": A deposit is usually required at this stage (typically 10-20% of the purchase price)",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Completion",
+      "description": "Transfer the remaining funds, Collect keys and other necessary documents",
+      "deadline": "2024-07-26",
+      "paymentDetails": ": Final payment of the remaining balance of the purchase price",
+      "evidenceUrl": ""
+    }
+  ]
+}

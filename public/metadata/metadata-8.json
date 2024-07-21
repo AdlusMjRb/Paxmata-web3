@@ -1,0 +1,66 @@
+{
+  "projectType": "maintenance",
+  "projectDescription": "Funding for maintaining school in low income area. electric, water, gas improvments.",
+  "estimatedCost": "600000",
+  "estimatedTimescale": "9 months",
+  "projectLocation": "Glasgow",
+  "isInvestable": true,
+  "investmentGoal": "300000",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "charitable_donation",
+    "community_impact",
+    "sustainability"
+  ],
+  "timestamp": 1720021677120,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Project Kickoff and Planning",
+      "description": "Finalizing project scope and objectives., Identifying key stakeholders and forming a project team., Developing a detailed project plan., Establishing communication and reporting protocols.",
+      "deadline": "2024-07-10",
+      "paymentDetails": ": 10% of total project budget, due at the end of Month 1.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Needs Assessment and Survey",
+      "description": "Conducting a comprehensive survey of the existing infrastructure., Identifying areas in need of improvement., Prioritizing improvements based on need and impact.",
+      "deadline": "2024-07-12",
+      "paymentDetails": ": 15% of total project budget, due at the end of Month 3.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Procurement and Contracting",
+      "description": "Developing detailed specifications for the improvements., Soliciting bids from contractors., Awarding contracts.",
+      "deadline": "2024-07-16",
+      "paymentDetails": ": 15% of total project budget, due at the end of Month 5.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Execution and Monitoring",
+      "description": "Overseeing the execution of the improvement works., Monitoring the progress and quality of the work., Ensuring compliance with all relevant regulations and standards.",
+      "deadline": "2024-07-18",
+      "paymentDetails": ": 30% of total project budget, due in two installments at the end of Month 7 and Month 9.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Testing and Commissioning",
+      "description": "Testing the new infrastructure to ensure it meets the specifications., Commissioning the new infrastructure., Training school staff on the use and maintenance of the new infrastructure.",
+      "deadline": "2024-07-19",
+      "paymentDetails": ": 15% of total project budget, due at the end of Month 10.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 5,
+      "title": "Project Closure and Handover",
+      "description": "Documenting the project outcomes and lessons learned., Conducting a final project review and evaluation., Handing over the project to the school administration.",
+      "deadline": "2024-07-23",
+      "paymentDetails": ": 15% of total project budget, due at the end of Month 12.",
+      "evidenceUrl": ""
+    }
+  ]
+}

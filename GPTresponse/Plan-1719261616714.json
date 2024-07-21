@@ -1,0 +1,34 @@
+{
+  "milestones": [
+    {
+      "title": "Project Planning and Design",
+      "description": "Market research and feasibility study, Site selection and acquisition, Architectural design and blueprint creation, Obtaining necessary permits and approvals",
+      "duration": "3 Months (January 2023 - March 2023)",
+      "paymentDetails": ": 10% of the total project cost upon completion of all tasks in this milestone."
+    },
+    {
+      "title": "Site Development and Foundation Construction",
+      "description": "Site clearing and preparation, Laying the foundation and installation of underground utilities, Inspection and approval of foundation work",
+      "duration": "3 Months (April 2023 - June 2023)",
+      "paymentDetails": ": 15% of the total project cost upon completion of all tasks in this milestone."
+    },
+    {
+      "title": "Structural Work and Exterior Development",
+      "description": "Construction of building structure, Installation of exterior walls, roofing, and windows, Exterior landscaping and parking development",
+      "duration": "6 Months (July 2023 - December 2023)",
+      "paymentDetails": ": 30% of the total project cost upon completion of all tasks in this milestone."
+    },
+    {
+      "title": "Interior Development and Finishing",
+      "description": "Installation of interior walls, flooring, and ceilings, Plumbing, electrical, and HVAC work, Installation of security systems and premium amenities, Interior design and finishing",
+      "duration": "6 Months (January 2024 - June 2024)",
+      "paymentDetails": ": 30% of the total project cost upon completion of all tasks in this milestone."
+    },
+    {
+      "title": "Final Inspection and Project Closeout",
+      "description": "Final inspection and obtaining Certificate of Occupancy, Marketing and Sales, Handover to buyers",
+      "duration": "6 Months (July 2024 - December 2024)",
+      "paymentDetails": ": 15% of the total project cost upon completion of all tasks in this milestone."
+    }
+  ]
+}

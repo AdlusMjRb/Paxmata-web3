@@ -1,0 +1,56 @@
+{
+  "projectType": "housing",
+  "projectDescription": "Upgrading and maintaining city infrastructure, including road repairs, bridge maintenance, and public utility upgrades to ensure safety and efficiency.",
+  "estimatedCost": "750000",
+  "estimatedTimescale": "1.5 years",
+  "projectLocation": "Manchester",
+  "isInvestable": false,
+  "investmentGoal": "",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "medical_infrastructure"
+  ],
+  "timestamp": 1719263042320,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Project Initiation and Planning",
+      "description": "Establishing project team, Identifying key stakeholders, Developing project charter, Creating detailed project plan, Risk identification and mitigation planning",
+      "deadline": "2024-06-26",
+      "paymentDetails": ": Initial payment of 10% of the total project cost upon completion of this milestone.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Road Repairs",
+      "description": "Surveying and identifying areas requiring repair, Prioritizing repairs based on urgency and impact, Procuring necessary materials and equipment, Executing repair works, Quality assurance and testing",
+      "deadline": "2024-06-27",
+      "paymentDetails": ": Payment of 25% of the total project cost upon completion of this milestone.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Bridge Maintenance",
+      "description": "Conducting thorough inspections of all city bridges, Identifying maintenance needs and prioritizing based on safety considerations, Procuring necessary materials and equipment, Executing maintenance works, Quality assurance and testing",
+      "deadline": "2024-06-28",
+      "paymentDetails": ": Payment of 25% of the total project cost upon completion of this milestone.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Public Utility Upgrades",
+      "description": "Surveying public utilities and identifying upgrade needs, Prioritizing upgrades based on efficiency and impact on public services, Procuring necessary materials and equipment, Executing upgrade works, Quality assurance and testing",
+      "deadline": "2024-06-29",
+      "paymentDetails": ": Payment of 30% of the total project cost upon completion of this milestone.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Project Closure",
+      "description": "Finalizing all project documentation, Conducting project review and lessons learned, Formal project closure and handover to city administration",
+      "deadline": "2024-06-30",
+      "paymentDetails": ": Final payment of 10% of the total project cost upon completion of this milestone.",
+      "evidenceUrl": ""
+    }
+  ]
+}

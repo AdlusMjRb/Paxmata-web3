@@ -1,0 +1,54 @@
+{
+  "projectType": "housing",
+  "projectDescription": "re wire old grade 2 listed building for renervation. making sure to work with local council to maintain local wild Bat population in area. ",
+  "estimatedCost": "",
+  "estimatedTimescale": "",
+  "projectLocation": "",
+  "isInvestable": false,
+  "investmentGoal": "",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": ["community_impact", "heritage_preservation"],
+  "timestamp": 1720192010561,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Project Initiation and Planning",
+      "description": "Engage with local council and obtain necessary permits, Conduct initial site survey, Develop detailed project plan, Assemble project team",
+      "deadline": "",
+      "paymentDetails": ": 10% of total project cost upon completion of milestone",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Bat Habitat Preservation",
+      "description": "Engage with local wildlife experts and council representatives, Develop and implement bat habitat preservation plan, Monitor and adjust plan as necessary",
+      "deadline": "",
+      "paymentDetails": ": 15% of total project cost upon completion of milestone",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Electrical System Assessment and Design",
+      "description": "Conduct detailed assessment of existing electrical system, Design new electrical system, ensuring compliance with local regulations and preservation of historic features, Obtain necessary approvals for design",
+      "deadline": "",
+      "paymentDetails": ": 25% of total project cost upon completion of milestone",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Electrical System Installation",
+      "description": "Procure necessary materials and equipment, Install new electrical system, Conduct regular inspections to ensure quality and compliance",
+      "deadline": "",
+      "paymentDetails": ": 35% of total project cost upon completion of milestone",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Project Closure",
+      "description": "Conduct final inspections and obtain necessary approvals, Train building staff on new electrical system, Document project and hand over to building management, Conduct project review and lessons learned",
+      "deadline": "",
+      "paymentDetails": ": 15% of total project cost upon completion of milestone",
+      "evidenceUrl": ""
+    }
+  ]
+}

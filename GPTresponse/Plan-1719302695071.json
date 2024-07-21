@@ -1,0 +1,40 @@
+{
+  "milestones": [
+    {
+      "title": "Project Planning and Design",
+      "description": "Site survey and analysis, Meetings with stakeholders and community members, Development of initial design concepts, Finalization of design including plant species selection, layout of educational exhibits and recreational areas",
+      "duration": "2 months",
+      "paymentDetails": ": 10% of total project cost upon completion of this milestone"
+    },
+    {
+      "title": "Securing Permissions and Procurement",
+      "description": "Securing necessary permits and approvals, Procurement of plants, materials, and equipment, Hiring of contractors and workers",
+      "duration": "1 month",
+      "paymentDetails": ": 15% of total project cost upon completion of this milestone"
+    },
+    {
+      "title": "Site Preparation and Initial Planting",
+      "description": "Site clearance and preparation, Soil conditioning and preparation, Initial planting of trees and shrubs",
+      "duration": "2 months",
+      "paymentDetails": ": 20% of total project cost upon completion of this milestone"
+    },
+    {
+      "title": "Construction of Recreational Areas and Educational Exhibits",
+      "description": "Construction of recreational areas including seating, playgrounds, and picnic areas, Installation of educational exhibits, Continuation of planting scheme",
+      "duration": "3 months",
+      "paymentDetails": ": 25% of total project cost upon completion of this milestone"
+    },
+    {
+      "title": "Completion of Planting and Finishing Touches",
+      "description": "Completion of planting scheme, Installation of signage and lighting, Final touches to recreational areas and exhibits",
+      "duration": "2 months",
+      "paymentDetails": ": 20% of total project cost upon completion of this milestone"
+    },
+    {
+      "title": "Final Inspection and Project Handover",
+      "description": "Final inspection and snagging, Rectification of any issues identified, Formal handover to the city",
+      "duration": "2 months",
+      "paymentDetails": ": 10% of total project cost upon completion of this milestone"
+    }
+  ]
+}

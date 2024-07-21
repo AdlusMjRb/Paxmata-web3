@@ -1,0 +1,58 @@
+{
+  "milestones": [
+    {
+      "number": 1,
+      "title": "Project Initiation and Planning",
+      "duration": "2 weeks",
+      "tasks": [
+        "Site survey",
+        "Initial design and layout planning",
+        "Securing necessary permits",
+        "Contract signing"
+      ],
+      "paymentDetails": ": £2000 due after contract signing"
+    },
+    {
+      "number": 2,
+      "title": "Excavation and Framing",
+      "duration": "3 weeks",
+      "tasks": [
+        "Site preparation",
+        "Pool excavation",
+        "Installation of steel reinforcement"
+      ],
+      "paymentDetails": ": £2000 due at the end of Milestone 2"
+    },
+    {
+      "number": 3,
+      "title": "Plumbing and Electrical Installation",
+      "duration": "2 weeks",
+      "tasks": [
+        "Installation of pool plumbing system",
+        "Installation of pool electrical system"
+      ],
+      "paymentDetails": ": £2000 due at the end of Milestone 3"
+    },
+    {
+      "number": 4,
+      "title": "Concrete and Tile Installation",
+      "duration": "3 weeks",
+      "tasks": [
+        "Pouring of concrete shell",
+        "Installation of pool tiles"
+      ],
+      "paymentDetails": ": £2000 due at the end of Milestone 4"
+    },
+    {
+      "number": 5,
+      "title": "Pool Finishing and Landscaping",
+      "duration": "2 weeks",
+      "tasks": [
+        "Pool interior finishing",
+        "Pool deck construction",
+        "Landscaping around the pool"
+      ],
+      "paymentDetails": ": £2000 due at the end of Milestone 5"
+    }
+  ]
+}

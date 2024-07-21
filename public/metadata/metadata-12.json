@@ -1,0 +1,59 @@
+{
+  "projectType": "maintenance",
+  "projectDescription": "Eco-frendly playground, with pool for wildlife",
+  "estimatedCost": "500000",
+  "estimatedTimescale": "1 year",
+  "projectLocation": "Glasgow",
+  "isInvestable": false,
+  "investmentGoal": "",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "sustainability",
+    "community_impact",
+    "heritage_preservation",
+    "charitable_donation"
+  ],
+  "timestamp": 1720175815836,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Project Initiation and Planning",
+      "description": "Conducting a feasibility study, Identifying key stakeholders, Defining project objectives and scope, Developing a detailed project plan",
+      "deadline": "2024-07-08",
+      "paymentDetails": "200",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Design and Development",
+      "description": "Creating design blueprints for the playground and wildlife pool, Selecting eco-friendly materials, Conducting an environmental impact assessment, Obtaining necessary permits and approvals",
+      "deadline": "2024-07-09",
+      "paymentDetails": "200",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Construction of Playground",
+      "description": "Site preparation and excavation, Installation of playground equipment, Construction of safety measures and accessibility features",
+      "deadline": "2024-07-10",
+      "paymentDetails": "200",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Construction of Wildlife Pool",
+      "description": "Site preparation and excavation for the pool, Construction of the pool with eco-friendly materials, Installation of water filtration and circulation systems",
+      "deadline": "2024-07-12",
+      "paymentDetails": "200",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Project Closure",
+      "description": "Conducting a final inspection, Addressing any issues or concerns, Officially opening the playground and wildlife pool to the public, Documentation and handover",
+      "deadline": "2024-07-13",
+      "paymentDetails": "200",
+      "evidenceUrl": ""
+    }
+  ]
+}

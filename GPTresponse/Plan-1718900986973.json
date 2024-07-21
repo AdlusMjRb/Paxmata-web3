@@ -1,0 +1,34 @@
+{
+  "milestones": [
+    {
+      "title": "Project Initiation and Planning",
+      "description": "Project Kick-off meeting, Finalizing project scope and requirements, Developing project schedule, Identifying necessary resources and materials",
+      "duration": "1 Week",
+      "paymentDetails": "N/A"
+    },
+    {
+      "title": "Site Preparation",
+      "description": "Site survey, Clearing the site, Marking pool boundaries",
+      "duration": "1 Week",
+      "paymentDetails": "N/A"
+    },
+    {
+      "title": "Excavation",
+      "description": "Excavating the pool area, Disposing of excavated materials",
+      "duration": "1 Week",
+      "paymentDetails": "N/A"
+    },
+    {
+      "title": "Pool Construction",
+      "description": "Installing pool framework, Laying pool shell, Installing pool plumbing and electrical systems",
+      "duration": "2 Weeks",
+      "paymentDetails": "N/A"
+    },
+    {
+      "title": "Finishing and Cleanup",
+      "description": "Finishing pool surface, Installing pool equipment, Cleanup and removal of construction debris",
+      "duration": "1 Week",
+      "paymentDetails": "N/A"
+    }
+  ]
+}

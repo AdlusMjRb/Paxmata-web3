@@ -1,0 +1,58 @@
+{
+  "projectType": "landscaping",
+  "projectDescription": "This project aims to provide clean and safe drinking water to the impoverished village of [Village Name] through the construction of several water wells. The village currently suffers from a lack of access to clean water, resulting in health issues and a significant burden on daily life, especially for women and children who spend hours fetching water from distant sources. ",
+  "estimatedCost": "10000",
+  "estimatedTimescale": "6 month",
+  "projectLocation": "",
+  "isInvestable": false,
+  "investmentGoal": "",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "charitable_donation",
+    "community_impact",
+    "sustainability"
+  ],
+  "timestamp": 1720256972511,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Project Initiation and Planning ",
+      "description": "Conduct a feasibility study, Identify the best locations for the wells, Develop a detailed project plan, Secure necessary permits and licenses, Establish a local project team",
+      "deadline": "2024-07-20",
+      "paymentDetails": "600",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Procurement and Mobilization",
+      "description": "Procure necessary equipment and materials, Hire construction crew, Transport equipment and materials to the site",
+      "deadline": "",
+      "paymentDetails": ": 20% of the total budget will be released upon the completion of this phase.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Construction of the First Well",
+      "description": "Prepare the site, Drill the well, Install pump and piping, Test water quality",
+      "deadline": "",
+      "paymentDetails": ": 20% of the total budget will be released upon the completion of this phase.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Construction of Remaining Wells",
+      "description": "Repeat the processes from Milestone 3 for remaining wells",
+      "deadline": "",
+      "paymentDetails": ": 30% of the total budget will be released upon the completion of this phase.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Project Closure and Community Training",
+      "description": "Conduct final water quality tests, Train local community members on well maintenance and water safety, Document project and handover to the community, Demobilize equipment and crew",
+      "deadline": "",
+      "paymentDetails": ": 15% of the total budget will be released upon the completion of this phase.",
+      "evidenceUrl": ""
+    }
+  ]
+}

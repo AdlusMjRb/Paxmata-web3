@@ -1,0 +1,65 @@
+{
+  "projectType": "landscaping",
+  "projectDescription": "A new hospice center dedicated to providing compassionate care to vulnerable children. This facility will offer a nurturing and supportive environment, focusing on enhancing the quality of life for children facing serious health challenges.",
+  "estimatedCost": "12000000",
+  "estimatedTimescale": "1.2years",
+  "projectLocation": "Edinburgh",
+  "isInvestable": true,
+  "investmentGoal": "500000",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "community_impact",
+    "medical_infrastructure"
+  ],
+  "timestamp": 1719343798578,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Project Initiation and Planning",
+      "description": "Assemble project team, Define project objectives and strategies, Conduct feasibility study, Develop project charter, Prepare initial project plan",
+      "deadline": "2024-06-27",
+      "paymentDetails": "2000",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Design and Development",
+      "description": "Develop architectural design of the hospice center, Create detailed construction plan, Secure necessary permits and approvals, Initiate procurement of materials",
+      "deadline": "2024-07-04",
+      "paymentDetails": "2000",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Construction Phase 1",
+      "description": "Site preparation and ground-breaking, Foundation laying and framework construction, Plumbing and Electrical installation",
+      "deadline": "2024-07-11",
+      "paymentDetails": "2000",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Construction Phase 2",
+      "description": "Complete construction of the building, Install HVAC, security systems, and other necessary systems, Conduct inspections and secure occupancy permit",
+      "deadline": "2024-07-11",
+      "paymentDetails": "2000",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Furnishing and Final Touches",
+      "description": "Furnish the hospice center, Install necessary medical equipment, Hire and train staff, Conduct final inspections and secure necessary certifications",
+      "deadline": "2024-07-18",
+      "paymentDetails": "2000",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 5,
+      "title": "Grand Opening",
+      "description": "Plan and execute grand opening event, Begin operations and patient intake, Monitor operations and make necessary adjustments",
+      "deadline": "2024-07-25",
+      "paymentDetails": "1000000",
+      "evidenceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "projectType": "landscaping",
+  "projectDescription": "Creating a community garden with designated plots for local residents. The project includes the installation of irrigation systems, seating areas, and educational signage.",
+  "estimatedCost": "400000",
+  "estimatedTimescale": "4 months",
+  "projectLocation": "",
+  "isInvestable": true,
+  "investmentGoal": "200000",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "sustainability"
+  ],
+  "timestamp": 1719397436913,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Project Planning and Design",
+      "description": "Establish project team, Conduct site survey, Design garden layout including irrigation system, seating areas, and educational signage, Develop project budget, Secure necessary permits and approvals",
+      "deadline": "2024-06-28",
+      "paymentDetails": ": 10% of the total project cost upon completion of this milestone",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Procurement and Preparation",
+      "description": "Procure necessary materials: plants, irrigation system materials, seating furniture, signage, Prepare site for development: clear area, level ground, mark plot boundaries",
+      "deadline": "2024-06-29",
+      "paymentDetails": ": 20% of the total project cost upon completion of this milestone",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Installation of Irrigation System",
+      "description": "Install irrigation system according to garden layout, Test system to ensure all areas are adequately covered, Make necessary adjustments",
+      "deadline": "2024-07-02",
+      "paymentDetails": ": 20% of the total project cost upon completion of this milestone",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Garden Plot Development",
+      "description": "Install garden plots according to design, Add soil and compost to each plot, Install plot markers",
+      "deadline": "2024-07-04",
+      "paymentDetails": ": 20% of the total project cost upon completion of this milestone",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Installation of Seating Areas and Educational Signage",
+      "description": "Install seating areas as per design, Install educational signage at designated spots",
+      "deadline": "2024-07-05",
+      "paymentDetails": ": 20% of the total project cost upon completion of this milestone",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 5,
+      "title": "Project Completion and Handover",
+      "description": "Conduct final inspection, Make any necessary adjustments, Handover project to community with complete documentation",
+      "deadline": "2024-07-06",
+      "paymentDetails": ": 10% of the total project cost upon completion of this milestone",
+      "evidenceUrl": ""
+    }
+  ]
+}

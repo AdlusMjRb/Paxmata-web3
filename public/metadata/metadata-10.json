@@ -1,0 +1,56 @@
+{
+  "projectType": "housing",
+  "projectDescription": "Retrofitting older buildings with modern energy-saving technologies and structural improvements to extend their lifespan and enhance efficiency.",
+  "estimatedCost": "300000",
+  "estimatedTimescale": "5 months",
+  "projectLocation": "",
+  "isInvestable": false,
+  "investmentGoal": "",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "heritage_preservation"
+  ],
+  "timestamp": 1720171757929,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Project Initiation and Planning",
+      "description": "Feasibility study, Site inspection, Gathering of requirements, Preparation of project plan, Risk assessment, Budget estimation",
+      "deadline": "2024-07-08",
+      "paymentDetails": ": Upon completion of this milestone, 15% of the total project cost will be due.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Design and Development",
+      "description": "Detailed energy audit, Identification of retrofitting opportunities, Design of retrofitting solutions, Development of implementation plan, Approval of retrofitting design and plan",
+      "deadline": "2024-07-09",
+      "paymentDetails": ": Upon completion of this milestone, 25% of the total project cost will be due.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Procurement and Installation",
+      "description": "Procurement of necessary materials and equipment, Installation of energy-saving technologies, Structural improvements, Site clean-up",
+      "deadline": "2024-07-10",
+      "paymentDetails": ": Upon completion of this milestone, 30% of the total project cost will be due.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Testing and Commissioning",
+      "description": "Testing of installed systems, Commissioning of the building, Training of building staff, Documentation",
+      "deadline": "2024-07-11",
+      "paymentDetails": ": Upon completion of this milestone, 20% of the total project cost will be due.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Project Closure",
+      "description": "Monitoring and evaluation of building performance, Fine-tuning of systems, Preparation of final report, Project handover",
+      "deadline": "2024-07-12",
+      "paymentDetails": ": Upon completion of the project, the remaining 10% of the total project cost will be due.",
+      "evidenceUrl": ""
+    }
+  ]
+}

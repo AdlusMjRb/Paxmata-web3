@@ -1,0 +1,56 @@
+{
+  "projectType": "housing",
+  "projectDescription": "Developing a sustainable neighbourhood with green homes and renewable energy sources, aiming to reduce the environmental footprint and promote sustainable living.",
+  "estimatedCost": "3000000",
+  "estimatedTimescale": "3 years",
+  "projectLocation": "Birmingham",
+  "isInvestable": false,
+  "investmentGoal": "",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "charitable_donation"
+  ],
+  "timestamp": 1719303434572,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Title: Project Planning and Design",
+      "description": "Conduct a feasibility study, Develop a project plan, Design sustainable houses and layout of the neighbourhood, Identify potential renewable energy sources, Obtain necessary permits and approvals",
+      "deadline": "2024-06-27",
+      "paymentDetails": ": 15% of the total project budget to be paid upon completion of this milestone.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Title: Procurement and Site Preparation",
+      "description": "Procure construction materials and renewable energy equipment, Prepare the site for construction, Set up temporary facilities",
+      "deadline": "2024-06-28",
+      "paymentDetails": ": 10% of the total project budget to be paid upon completion of this milestone.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Title: Construction of Green Homes",
+      "description": "Construct the green homes as per the design, Install energy-efficient appliances and systems, Implement waste management systems",
+      "deadline": "2024-06-29",
+      "paymentDetails": ": 40% of the total project budget to be paid in installments upon completion of predetermined stages of this milestone.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Title: Installation of Renewable Energy Sources",
+      "description": "Install solar panels, wind turbines, or other renewable energy sources, Connect the renewable energy sources to the homes, Test the system for efficiency and safety",
+      "deadline": "2024-06-30",
+      "paymentDetails": ": 20% of the total project budget to be paid upon completion of this milestone.",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "Title: Project Finalization and Handover",
+      "description": "Conduct final inspection and testing, Address any issues or defects, Obtain final approvals, Handover the project to the client",
+      "deadline": "2024-07-01",
+      "paymentDetails": ": 15% of the total project budget to be paid upon completion of this milestone.",
+      "evidenceUrl": ""
+    }
+  ]
+}

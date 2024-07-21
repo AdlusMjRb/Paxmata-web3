@@ -1,0 +1,49 @@
+{
+  "projectType": "landscaping",
+  "projectDescription": "creating garden with open space for school grounds and child play area",
+  "estimatedCost": "800000",
+  "estimatedTimescale": "9 months",
+  "projectLocation": "Edinburgh",
+  "isInvestable": true,
+  "investmentGoal": "40000",
+  "ethereumAddress": "0xa89577ad78d7cb264e1c4de30096e0501fc0280b",
+  "badges": [
+    "charitable_donation",
+    "community_impact"
+  ],
+  "timestamp": 1719352728989,
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Site Survey and Design Preparation",
+      "description": "Site inspection and survey, Understanding the client requirements, Designing the layout of the garden and open space, Finalizing the design with the client",
+      "deadline": "2024-06-27",
+      "paymentDetails": ": 20% of the total project cost upon approval of the design",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Groundwork and Landscaping",
+      "description": "Ground clearing and preparation, Implementing the landscaping design, Planting trees, shrubs, and flowers, Setting up the irrigation system",
+      "deadline": "2024-06-29",
+      "paymentDetails": ": 30% of the total project cost upon completion of this phase",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Construction of Child Play Area",
+      "description": "Selection and procurement of play equipment, Installation of play equipment, Safety checks and measures",
+      "deadline": "2024-07-01",
+      "paymentDetails": ": 30% of the total project cost upon completion of this phase",
+      "evidenceUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Final Touches and Handover",
+      "description": "Installation of benches, trash bins, and other amenities, Final landscaping touches, Cleanup of the site, Handover to the client",
+      "deadline": "2024-07-04",
+      "paymentDetails": ": Remaining 20% of the total project cost upon successful handover of the project.",
+      "evidenceUrl": ""
+    }
+  ]
+}
