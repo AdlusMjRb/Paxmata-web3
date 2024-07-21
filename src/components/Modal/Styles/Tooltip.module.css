@@ -1,0 +1,21 @@
+.tooltip {
+  position: fixed; /* Use fixed to follow the cursor correctly */
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 0.8rem;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  white-space: nowrap;
+  z-index: 1000; /* High z-index to ensure it appears above other elements */
+  transform: translate(
+    -50%,
+    -150%
+  ); /* Center horizontally and offset vertically */
+}
+
+.tooltip.visible {
+  opacity: 1;
+}

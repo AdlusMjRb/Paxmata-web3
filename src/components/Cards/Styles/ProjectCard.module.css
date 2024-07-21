@@ -1,0 +1,155 @@
+.cardWrapper {
+  position: relative;
+}
+
+.card {
+  background: #fff;
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  margin: 20px 0;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+.graphicContainer {
+  position: relative;
+  width: 100%;
+  height: 200px;
+}
+
+.graphic {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.textOverlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.title {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.content {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.badgeContainer {
+  display: flex;
+  justify-content: flex-start;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.badgeWrapper {
+  position: relative;
+}
+
+.badgeIcon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid white;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.badgeIcon:hover {
+  transform: scale(1.2);
+}
+
+.investableBadgeWrapper {
+  margin-bottom: 15px;
+}
+
+.investableBadge {
+  display: inline-block;
+  background-color: #ff9800;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.4;
+}
+
+.description {
+  color: #555;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.bidButton,
+.fundButton {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.bidButton:hover,
+.fundButton:hover {
+  background-color: #45a049;
+  transform: translateY(-2px);
+}
+
+.fundButton {
+  background-color: #ff9800;
+}
+
+.fundButton:hover {
+  background-color: #c57600;
+}
+
+.donateButton {
+  background-color: #f44336;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.donateButton:hover {
+  background-color: #d32f2f;
+}

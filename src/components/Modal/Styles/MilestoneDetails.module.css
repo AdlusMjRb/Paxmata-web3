@@ -1,0 +1,56 @@
+/* Styles/MilestoneDetails.module.css */
+
+.milestoneDetails {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.evidenceSection {
+  margin-top: 20px;
+}
+
+.status {
+  margin-top: 10px;
+  color: red;
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 10px;
+}
+
+.milestoneButton {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.haltButton {
+  background-color: yellow;
+}
+
+.emergencyButton {
+  background-color: red;
+  color: white;
+}
+
+.videoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cameraButtonContainer {
+  display: flex;
+  gap: 10px;
+}
+
+.modalContent {
+  padding: 20px;
+  background-color: white;
+  border-radius: 5px;
+  max-width: 800px;
+  margin: 0 auto;
+}

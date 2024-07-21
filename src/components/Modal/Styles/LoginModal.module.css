@@ -1,0 +1,64 @@
+/* Modal common styles (apply to both login and registration modals) */
+.modal {
+  background: white;
+  border-radius: 4px;
+  padding: 20px;
+  position: relative;
+  max-width: 400px;
+  margin: 50px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  z-index: 2006; /* Ensure it's above all content */
+}
+
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 2005; /* Ensure it's above the dropdown but below the modal */
+}
+
+.closeModalButton {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+/* Style for the form fields */
+.formField {
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Styles for buttons like Submit, Cancel, etc */
+.button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.buttonSubmit {
+  background-color: #0056b3;
+  color: white;
+}
+
+.buttonCancel {
+  background-color: #ff6b6b;
+  color: white;
+}
+
+.buttonSubmit:hover,
+.buttonCancel:hover {
+  opacity: 0.9;
+}

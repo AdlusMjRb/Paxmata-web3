@@ -1,0 +1,209 @@
+.mile-stone-fields {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  height: 100px;
+}
+
+.mile-stone-fields .div {
+  height: 112px;
+  position: relative;
+  width: 550px;
+  margin-top: 350px;
+}
+
+.mile-stone-fields .frame {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 550px;
+}
+
+.mile-stone-fields .group {
+  height: 40px;
+}
+
+.mile-stone-fields .frame-2 {
+  height: 40px;
+  position: relative;
+  width: 550px;
+}
+
+.mile-stone-fields .payment-active {
+  align-items: center;
+  background-color: #eeeeee;
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 26px;
+  justify-content: center;
+  left: 459px;
+  padding: 0px 16px;
+  position: absolute;
+  top: 6px;
+  width: 36px;
+}
+
+.mile-stone-fields .text-wrapper {
+  color: #000000;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16.5px;
+  margin-left: -7.5px;
+  margin-right: -7.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mile-stone-fields .payment-disactive {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 26px;
+  justify-content: center;
+  left: 518px;
+  padding: 0px 16px;
+  position: absolute;
+  top: 6px;
+  width: 32px;
+}
+
+.mile-stone-fields .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16.5px;
+  margin-left: -7.5px;
+  margin-right: -7.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mile-stone-fields .input-project-info {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e0e0e0;
+  border-radius: 8px;
+  display: flex;
+  gap: 16px;
+  height: 40px;
+  left: 0;
+  padding: 8px 16px;
+  position: absolute;
+  top: 0;
+  width: 238px;
+}
+
+.mile-stone-fields .label {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: #828282;
+  display: -webkit-box;
+  font-family: var(--presets-body2-font-family);
+  font-size: var(--presets-body2-font-size);
+  font-style: var(--presets-body2-font-style);
+  font-weight: var(--presets-body2-font-weight);
+  letter-spacing: var(--presets-body2-letter-spacing);
+  line-height: var(--presets-body2-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  width: 180px;
+}
+
+.mile-stone-fields .label-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e0e0e0;
+  border-radius: 8px;
+  display: flex;
+  gap: 16px;
+  height: 40px;
+  left: 265px;
+  padding: 8px 16px;
+  position: absolute;
+  top: 0;
+  width: 165px;
+}
+
+.mile-stone-fields .label-2 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: #828282;
+  display: -webkit-box;
+  font-family: var(--presets-body2-font-family);
+  font-size: var(--presets-body2-font-size);
+  font-style: var(--presets-body2-font-style);
+  font-weight: var(--presets-body2-font-weight);
+  letter-spacing: var(--presets-body2-letter-spacing);
+  line-height: var(--presets-body2-line-height);
+  margin-right: -47px;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  width: 180px;
+}
+
+.mile-stone-fields .frame-wrapper {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 64px;
+}
+
+.mile-stone-fields .add-field-button-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  height: 40px;
+}
+
+.mile-stone-fields .add-field-button {
+  all: unset;
+  align-items: center;
+  background-color: #eeeeee;
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 8px;
+  height: 40px;
+  justify-content: center;
+  padding: 0px 16px;
+  position: relative;
+}
+
+.mile-stone-fields .text-wrapper-3 {
+  color: #000000;
+  font-family: var(--small-text-font-family);
+  font-size: var(--small-text-font-size);
+  font-style: var(--small-text-font-style);
+  font-weight: var(--small-text-font-weight);
+  letter-spacing: var(--small-text-letter-spacing);
+  line-height: var(--small-text-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mile-stone-fields .div-wrapper {
+  height: 40px;
+  left: 87px;
+  position: absolute;
+  top: 56px;
+  width: 94px;
+}

@@ -1,0 +1,27 @@
+/* DeleteButton.module.css */
+.deleteButton {
+  background-color: #e74c3c; /* Red color for delete action */
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px; /* Space between buttons */
+  font-size: 14px; /* Adjust font size */
+  transition: background-color 0.3s, transform 0.2s; /* Smooth transition */
+}
+
+.deleteButton:hover {
+  background-color: #c0392b; /* Darker red on hover */
+  transform: translateY(-2px); /* Slight lift effect on hover */
+}
+
+.deleteButton:active {
+  background-color: #a93226; /* Even darker red when active */
+  transform: translateY(0); /* Reset lift effect */
+}
+
+.deleteButton:focus {
+  outline: none; /* Remove default focus outline */
+  box-shadow: 0 0 0 2px rgba(231, 76, 60, 0.5); /* Custom focus outline */
+}

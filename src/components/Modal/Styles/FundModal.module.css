@@ -1,0 +1,65 @@
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 500px;
+  width: 90%;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+.projectDetails {
+  margin-bottom: 20px;
+}
+
+.fundForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.fundForm label {
+  font-weight: bold;
+}
+
+.fundForm input[type="number"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.fundForm input[type="range"] {
+  width: 100%;
+}
+
+.netReturn {
+  margin-top: 10px;
+  font-size: 1rem;
+  color: #333;
+}
+
+.fundForm button {
+  background-color: #2196f3;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.fundForm button:hover {
+  background-color: #1976d2;
+  transform: translateY(-2px);
+}

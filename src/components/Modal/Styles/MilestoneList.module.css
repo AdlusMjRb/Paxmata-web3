@@ -1,0 +1,47 @@
+.timeline {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  overflow-x: auto;
+  padding: 10px;
+  gap: 10px;
+}
+
+.milestoneBox {
+  cursor: pointer;
+  padding: 15px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  text-align: center;
+  width: 150px;
+  flex-shrink: 0;
+}
+
+.milestoneBox:hover {
+  background-color: #f0f0f0;
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.progress {
+  background: #e0e0e0;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-top: 10px;
+  height: 10px;
+}
+
+.progressBar {
+  background: #4caf50;
+  height: 100%;
+}
+
+.progressText {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #555;
+}

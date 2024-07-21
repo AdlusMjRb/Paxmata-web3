@@ -1,0 +1,42 @@
+.dropDownMenu {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  width: 200px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s, visibility 0.3s;
+}
+
+.dropDownMenu.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.menuList {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.menuItem {
+  background: none;
+  border: none;
+  color: #333;
+  cursor: pointer;
+  font-size: 1rem;
+  margin: 8px 0;
+  padding: 10px;
+  text-align: left;
+  transition: background-color 0.3s;
+}
+
+.menuItem:hover {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}

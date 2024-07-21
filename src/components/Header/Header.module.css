@@ -1,0 +1,45 @@
+.headerBar {
+  background: #f8f8f8;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+  position: relative;
+  z-index: 1000;
+}
+
+.navContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menuToggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+.centerLogoContainer {
+  display: flex;
+  align-items: center;
+}
+
+.headerProfile {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.authButton {
+  background: #007bff;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 4px;
+  transition: background 0.3s;
+}
+
+.authButton:hover {
+  background: #0056b3;
+}
