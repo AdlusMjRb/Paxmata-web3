@@ -1,0 +1,56 @@
+.projectWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  width: 100%;
+}
+
+.projectList {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(300px, 1fr)
+  ); /* Responsive grid */
+  gap: 20px; /* Space between cards */
+  width: 100%;
+  max-width: 1200px; /* Limit maximum width */
+}
+
+.projectCardContainer {
+  position: relative;
+  border: 1px solid #ddd; /* Border around each card */
+  border-radius: 8px; /* Rounded corners */
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.checkbox {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1;
+}
+
+.deleteActions {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.toggleDeleteModeButton,
+.deleteSelectedButton {
+  padding: 8px 16px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.toggleDeleteModeButton {
+  background-color: #007bff;
+}
+
+.deleteSelectedButton {
+  background-color: #ff0000;
+}

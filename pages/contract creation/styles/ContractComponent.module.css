@@ -1,0 +1,211 @@
+/* Overall page container */
+.negotiation-page {
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* Container for top elements */
+.negotiation-element-wrapper-top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Container for main negotiation elements */
+.mile-stone-fields {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 600px;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Milestone Container */
+.milestone-item {
+  background-color: #f1f1f1;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 15px;
+  transition: all 0.3s ease-in-out;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+}
+
+.milestone-item:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Input and Textarea Styles */
+.input-project-info,
+.task-textarea {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  transition: all 0.3s ease-in-out;
+  resize: none; /* Prevent resizing */
+}
+
+.input-project-info:focus,
+.task-textarea:focus {
+  outline: none;
+  border-color: #4caf50;
+  box-shadow: 0 0 8px rgba(76, 175, 80, 0.2);
+}
+
+.task-textarea {
+  min-height: 80px;
+  height: auto;
+  overflow: hidden;
+}
+
+/* Label Styles */
+.label {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+/* Button Styles */
+.button-group {
+  display: flex;
+  gap: 10px;
+}
+
+.add-field-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  margin: 15px 0;
+  border-radius: 8px;
+}
+
+.add-field-button:hover {
+  background-color: #45a049;
+}
+
+.edit-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.edit-button:hover {
+  background-color: #0056b3;
+}
+
+.save-button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.save-button:hover {
+  background-color: #218838;
+}
+
+.remove-button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.remove-button:hover {
+  background-color: #d32f2f;
+}
+
+.generate-template-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 8px;
+}
+
+.generate-template-button:hover {
+  background-color: #0056b3;
+}
+
+.generate-agreement {
+  background-color: #000;
+  color: white;
+  width: 100%;
+  max-width: 200px;
+  border: none;
+  cursor: pointer;
+  margin: 0 auto;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.generate-agreement:hover {
+  background-color: #333;
+}
+
+/* Total payments */
+.total-payments {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+}
+
+.notification {
+  background-color: #e7f3fe;
+  color: #3178c6;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.loading {
+  color: #3178c6;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.success {
+  color: #4caf50;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.error {
+  color: #f44336;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: center;
+}

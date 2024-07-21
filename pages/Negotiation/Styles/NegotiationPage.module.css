@@ -1,0 +1,48 @@
+.negotiationPage {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.header {
+  background-color: #6a7c8f;
+  color: #fff;
+  padding: 16px; /* Add a specific padding value */
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 20px;
+  padding: 20px;
+  flex: 1;
+  overflow: hidden; /* Prevent overflow */
+}
+
+.leftColumn,
+.middleColumn,
+.rightColumn {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto; /* Enable scrolling */
+  max-height: calc(100vh - 72px); /* Adjust height according to the header */
+}
+
+.leftColumn {
+  height: 100%;
+}
+
+.middleColumn {
+  height: 100%;
+}
+
+.rightColumn {
+  height: 100%;
+}

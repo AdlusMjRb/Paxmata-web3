@@ -1,0 +1,121 @@
+.pageLayout {
+  font-family: "Inter", sans-serif;
+  background-color: #e0e0e0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Align items to the top */
+  padding: 1rem;
+}
+
+.mainContainer {
+  width: 80%;
+  max-width: 1200px; /* Increased max-width for better layout */
+  margin: 1rem auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two-column layout */
+  gap: 2rem;
+}
+
+.formCard {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.previewCard {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.formHeading,
+.previewHeading {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.formField {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  height: 38px;
+}
+
+.badgeCheckboxContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Space between checkbox items */
+  margin-top: 10px;
+}
+
+.checkboxItem {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.checkboxInput {
+  margin-right: 5px; /* Space between checkbox and label */
+  accent-color: #4caf50; /* Color for the checkbox */
+}
+
+.checkboxLabel {
+  font-size: 0.9rem;
+  color: #333;
+  white-space: nowrap; /* Prevent label from wrapping */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px; /* Limit label width to avoid overflow */
+}
+
+.submitButton {
+  background-color: #4caf50;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  align-self: flex-start; /* Align the button to the left */
+}
+
+.submitButton:hover {
+  background-color: #45a049;
+}
+
+.badgeSelector {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.badgeLabel {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.badgeOption {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.badgeIcon {
+  width: 20px;
+  height: 20px;
+}

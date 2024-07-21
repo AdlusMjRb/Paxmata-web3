@@ -1,0 +1,15 @@
+/* MilestoneManager.module.css */
+.milestoneManager {
+  padding: 20px;
+}
+
+.projectGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.status {
+  color: red;
+  margin-top: 10px;
+}

@@ -1,0 +1,13 @@
+.user-profile-page {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.user-profile-page .div-2 {
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}

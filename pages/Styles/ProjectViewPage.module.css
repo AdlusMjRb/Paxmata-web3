@@ -1,0 +1,94 @@
+.body {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  /* Replace with the ID of your main root element if it's different */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Full viewport height */
+}
+
+.projectViewContainer {
+  flex: 1; /* Grow to fill available space */
+  margin-top: 60px; /* Adjust as necessary */
+  display: flex;
+  justify-content: space-between; /* Align the main content and filter section */
+}
+
+.projectsContainer {
+  width: 75%; /* Adjust based on the exact ratio you need */
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(250px, 1fr)
+  ); /* Creates a responsive grid */
+  gap: 1rem;
+  flex-grow: 1; /* Make sure this container grows as needed */
+}
+
+.filterSection {
+  flex-basis: 20%;
+  padding: 10px;
+  border-right: 1px solid #ccc;
+}
+
+.searchBar {
+  margin-bottom: 1rem;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.filterCategories {
+  margin-bottom: 2rem;
+}
+
+.filterCategories h4 {
+  margin-bottom: 0.5rem;
+}
+
+.filterCategories ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.filterCategories li {
+  margin-bottom: 0.5rem;
+}
+
+.filterCategories label {
+  margin-left: 0.5rem;
+}
+
+.createProjectButton {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  padding: 10px 15px;
+  background-color: #2597df; /* Use your brand color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 10; /* Ensure button is above other elements */
+}
+
+.createProjectButton:hover {
+  background-color: #065186; /* Darker shade for hover state */
+}
+
+.footer {
+  /* Adjust class to match your footer's class if different */
+  width: 100%;
+  padding: 20px;
+  background-color: #f8f9fa; /* Your footer background */
+  border-top: 1px solid #e7e7e7; /* A top border for the footer */
+}

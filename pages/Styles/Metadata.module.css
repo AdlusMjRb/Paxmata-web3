@@ -1,0 +1,35 @@
+/* Metadata.module.css */
+.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(181, 181, 181, 0.518);
+  margin-top: 80px;
+}
+
+.heading {
+  font-size: 2rem;
+  margin-top: 100px;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.metadataInfo {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  background: #f7f7f7;
+  border: 1px solid #e1e1e1;
+  border-radius: var(--border-radius, 4px);
+}
+
+.metadataLabel {
+  font-weight: bold;
+  margin-right: 1rem;
+}
+
+/* If you want to style individual metadata entries differently */
+.metadataEntry:nth-child(odd) {
+  background: #f0f0f0;
+}
